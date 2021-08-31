@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## ARTI KESHARI
 
 You can use the [editor on GitHub](https://github.com/sampriti111/artikeshari/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
